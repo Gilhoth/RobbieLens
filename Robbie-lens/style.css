@@ -1,0 +1,33 @@
+.listes{
+    font-size: 1em;
+    font-family: 'Manrope', sans-serif;
+}
+
+
+.Titres{
+    color: #A5B4FC;
+    font-size: 3.5em;
+    font-family: 'Manrope', sans-serif;
+    font-weight: normal;
+   
+}
+
+.italique{
+    color: #A5B4FC;
+    font-style: normal;
+}
+
+.paragraphes{
+    font-size: 1.1em;
+    font-family: 'Manrope', sans-serif;
+    
+  
+}
+.liens{
+ color: black;
+ text-decoration: none;
+}
+
+
+
+
